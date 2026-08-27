@@ -1,0 +1,48 @@
+```
+# Maven build artifacts
+target/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Dependencies
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Python cache (if any Python files were detected in the project)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# MyPy cache
+.mypy_cache/
+```
